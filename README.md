@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Hugolelis
 
-<!--
-**Hugolelis/Hugolelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor **back-end** apaixonado e proativo, sempre em busca de criar soluções inovadoras e impactantes. Meu foco é desenvolver **aplicações escaláveis**, **eficientes** e **seguras**, garantindo que a lógica de negócios e a integração entre sistemas funcionem de forma fluida e otimizada. Acredito que um bom back-end é a base de qualquer aplicação de sucesso, combinando funcionalidade com performance e segurança.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 💼 Contato
+
+- **GitHub**: [Hugolelis](https://github.com/Hugolelis)  
+- **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- **E-mail**: [hugodelelis05@gmail.com](hugodelelis05@gmail.com)  
+
+---
+
+*"O back-end é a fundação que sustenta o sucesso de qualquer aplicação. Por trás de cada interface, há um trabalho invisível e fundamental para o bom funcionamento."*
+
