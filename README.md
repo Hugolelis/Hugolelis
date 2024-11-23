@@ -8,9 +8,7 @@ Sou um desenvolvedor **back-end** apaixonado e proativo, sempre em busca de cria
   
 ## 💼 Contato
 
-- **GitHub**: [Hugolelis](https://github.com/Hugolelis)  
-- **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- **E-mail**: [hugodelelis05@gmail.com](hugodelelis05@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugolelis)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  [![E-mail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com)  
 
 ---
 
