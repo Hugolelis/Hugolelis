@@ -5,7 +5,7 @@ Acredito que um bom back-end é a base de qualquer aplicação de sucesso, combi
 
 ```bash
 $ npm install 'AplicacoesEscalaveis'
-$ npm install 'EficienciaE'
+$ npm install 'Eficiencia'
 $ npm install 'Seguranca'
 $ npm run app --otimizado
 ```
