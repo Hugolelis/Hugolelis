@@ -4,9 +4,9 @@ Sou desenvolvedor **back-end** apaixonado e proativo, sempre em busca de criar s
 Acredito que um bom back-end é a base de qualquer aplicação de sucesso, combinando funcionalidade com performance e segurança.
 
 ```bash
-$ npm install 'AplicacoesEscalaveis'
-$ npm install 'Eficiencia'
-$ npm install 'Seguranca'
+$ npm install aplicacoesEscalaveis
+$ npm install eficiencia
+$ npm install seguranca
 $ npm start
 ```
 
