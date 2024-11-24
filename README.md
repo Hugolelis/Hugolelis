@@ -7,7 +7,7 @@ Acredito que um bom back-end é a base de qualquer aplicação de sucesso, combi
 $ npm install 'AplicacoesEscalaveis'
 $ npm install 'Eficiencia'
 $ npm install 'Seguranca'
-$ npm run app 
+$ npm start
 ```
 
 ## 🛠️ Tecnologias e Ferramentas
