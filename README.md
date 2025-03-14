@@ -16,7 +16,8 @@ $ npm start
   
 ## 💼 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugolelis)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  [![E-mail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugolelis)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  [![E-mail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) [![Download CV](https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://seulink.com/seu-curriculo.pdf)
+
 
 ---
 
