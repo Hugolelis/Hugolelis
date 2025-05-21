@@ -1,5 +1,5 @@
 ## console.log("Hello world 👋")  
-I'm a passionate and proactive **back-end** developer, always striving to create innovative and impactful solutions.  
+> I'm a passionate and proactive **back-end** developer, always striving to create innovative and impactful solutions.  
 I believe that a solid back-end is the foundation of any successful application, combining functionality with performance and security.  
 
 ---
@@ -11,7 +11,7 @@ $ npm install security
 $ npm start
 ```
 
-*"The back-end is the foundation that upholds the success of any application. Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality."*
+> *"The back-end is the foundation that upholds the success of any application. Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality."*
 
 ---
 
