@@ -1,5 +1,5 @@
 ## console.log("Hello world 👋")  
-> I'm a passionate and proactive **back-end** developer, always striving to create innovative and impactful solutions.  
+I'm a passionate and proactive **back-end** developer, always striving to create innovative and impactful solutions.  
 I believe that a solid back-end is the foundation of any successful application, combining functionality with performance and security.  
 
 ---
