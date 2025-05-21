@@ -23,7 +23,7 @@ $ npm start
 ---
 
 ## 📊 My stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolelis&layout=compact&theme=dark" width="350" /> <img src="https://github-readme-stats.vercel.app/api?username=hugolelis&show_icons=true&theme=dark" width="393" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolelis&layout=compact&theme=dark&langs_count=4" width="350" />  <img src="https://github-readme-stats.vercel.app/api?username=hugolelis&show_icons=true&theme=dark" width="390" />
 
 ---
   
