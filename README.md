@@ -10,7 +10,6 @@ $ npm install efficiency
 $ npm install security
 $ npm start
 ```
----
 
 *"The back-end is the foundation that upholds the success of any application. Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality."*
 
