@@ -28,7 +28,7 @@ $ npm start
 ---
   
 ## 💼 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugodelelis03/)  [![E-mail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) [![View CV](https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/s!AmXIL0ISnow7wpdF11IJDu1eC1XLTg?e=MdKevf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugodelelis03/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) [![Download CV](https://img.shields.io/badge/-Download%20CV-007BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/s!AmXIL0ISnow7wpdF11IJDu1eC1XLTg?e=MdKevf)
 
 
 
