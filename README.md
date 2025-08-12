@@ -1,17 +1,21 @@
-## console.log("Hello world 👋")  
-I'm a passionate and proactive **back-end** developer, always striving to create innovative and impactful solutions.  
-I believe that a solid back-end is the foundation of any successful application, combining functionality with performance and security.  
+# Sobre mim
 
----
+```cpp
+int main() {
+    
+    Sou um desenvolvedor **back‑end** apaixonado e proativo, sempre em busca de criar soluções.
+    Acredito que um back‑end sólido seja a base de qualquer aplicação bem‑sucedida, combinando funcionalidade,
+    desempenho e segurança.
+    
 
-```bash
-$ npm install scalableApplications
-$ npm install efficiency
-$ npm install security
-$ npm start
+    
+    // “The back‑end is the foundation that upholds the success of any application.
+    // Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality.”
+    
+
+    return 1;
+}
 ```
-
-> *"The back-end is the foundation that upholds the success of any application. Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality."*
 
 ---
 
