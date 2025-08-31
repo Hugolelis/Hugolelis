@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/5692d1ff-8fb8-41af-892d-9545fbeb044a" alt="Animação" style="width:100%; max-width:800px; height:200px;">
 </p>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 ```cpp
 int main() {
@@ -21,19 +21,19 @@ int main() {
 
 ---
 
-### 🛠️  Técnologias & Ferramentas
-#### Linguagens de Programação
+### 🚀  Técnologias & Ferramentas
+#### 💻 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Bancos de dados
+#### 🗄️ Bancos de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Ferramentas
+#### 🛠️ Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
