@@ -3,15 +3,12 @@
 ```cpp
 int main() {
     
-    Sou um desenvolvedor **back‑end** apaixonado e proativo, sempre em busca de criar soluções.
-    Acredito que um back‑end sólido seja a base de qualquer aplicação bem‑sucedida, combinando funcionalidade,
-    desempenho e segurança.
+    Sou desenvolvedor back-end proativo, sempre em busca de criar soluções inovadoras e de
+    alto impacto. Acredito que um backend bem estruturado é a base de qualquer aplicação
+    de sucesso, combinando funcionalidade, desempenho e segurança.
     
-
-    
-    // “The back‑end is the foundation that upholds the success of any application.
-    // Behind every interface, there's an invisible yet fundamental work ensuring seamless functionality.”
-    
+    // "O back-end é a fundação que sustenta o sucesso de qualquer aplicação.
+    // Por trás de cada interface, existe um trabalho essencial, garantindo funcionamento eficiente e confiável."
 
     return 1;
 }
