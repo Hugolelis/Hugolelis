@@ -12,7 +12,8 @@ int main() {
     de sucesso, combinando funcionalidade, desempenho e segurança.
     
     // "O back-end é a fundação que sustenta o sucesso de qualquer aplicação.
-    // Por trás de cada interface, existe um trabalho essencial, garantindo funcionamento eficiente e confiável."
+    // Por trás de cada interface, existe um trabalho essencial, garantindo
+    // funcionamento eficiente e confiável."
 
     return 1;
 }
