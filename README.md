@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5692d1ff-8fb8-41af-892d-9545fbeb044a" alt="Animação" style="width:100%; max-width:800px; height:400px;">
+</p>
+
 # Sobre mim
 
 ```cpp
@@ -23,29 +27,17 @@ int main() {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+#### Bancos de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ---
 
-### 📊 My stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolelis&layout=compact&theme=dark&langs_count=4&hide=html,css"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolelis&layout=compact&theme=light&langs_count=4&hide=html,css"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolelis&layout=compact&langs_count=4&hide=html,css" width="350" />
-</picture>
-
----
-  
 ### 💼 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugodelelis03/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) [![Download CV](https://img.shields.io/badge/-Download%20CV-007BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/s!AmXIL0ISnow7wpdF11IJDu1eC1XLTg?e=MdKevf)
 
