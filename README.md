@@ -21,7 +21,7 @@ int main() {
 
 ---
 
-### 🚀  Técnologias & Ferramentas
+## 🚀  Técnologias & Ferramentas
 #### 💻 Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
