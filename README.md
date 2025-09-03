@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5692d1ff-8fb8-41af-892d-9545fbeb044a" alt="Animação" style="width:100%; max-width:800px; height:200px;">
-</p>
-
 ## 👨‍💻 Sobre mim
 
 ```cpp
@@ -15,7 +11,7 @@ int main() {
     // Por trás de cada interface, existe um trabalho essencial, garantindo
     // funcionamento eficiente e confiável."
 
-    return 1;
+    return 0;
 }
 ```
 
