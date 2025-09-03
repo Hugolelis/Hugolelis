@@ -3,7 +3,7 @@
 ```cpp
 int main() {
     
-    Sou desenvolvedor back-end proativo, sempre em busca de criar soluções inovadoras e de
+    Sou desenvolvedor backend proativo, sempre em busca de criar soluções inovadoras e de
     alto impacto. Acredito que um backend bem estruturado é a base de qualquer aplicação
     de sucesso, combinando funcionalidade, desempenho e segurança.
     
