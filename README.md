@@ -4,9 +4,9 @@
 
 int main() {
 
-    std::cout << "I am a proactive backend developer, constantly seeking to create innovative 
-    and high-impact solutions. I believe that a well-structured backend is the 
-    foundation of any successful application, combining functionality, 
+    std::cout << "I am a proactive backend developer, constantly seeking to
+    create innovative and high-impact solutions. I believe that a well-structured
+    backend is the foundation of any successful application, combining functionality, 
     performance, and security." << std::endl;
     
     // The backend is the foundation that supports the success of any application.
