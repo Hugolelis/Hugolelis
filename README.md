@@ -1,16 +1,10 @@
-```cpp
-#include <iostream>
-#include <Backend>
+## 👋 Hi there!
 
-int main() {
-    
-    // Target: High-impact applications.
-    std::cout << "Backend Software Engineer | Focused on Robust and Scalable Architectures." << std::endl;
-    
-    // Pillars: Functionality, Performance, Security.
-    return 0;
-}
-```
+I'm a Backend Software Engineer passionate about crafting robust, scalable, and secure systems that power high-impact applications.
+I take pride in designing clean architectures, optimizing performance, and ensuring reliability at scale.
+
+#### 💡 My engineering philosophy revolves around three principles:
+Functionality · Performance · Security
 
 ---
 
