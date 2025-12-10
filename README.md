@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a Backend Software Engineer passionate about crafting robust, scalable, and secure systems that power high-impact applications.
+I'm a Software Engineer passionate about crafting robust, scalable, and secure systems that power high-impact applications.
 I take pride in designing clean architectures, optimizing performance, and ensuring reliability at scale.
 
 #### My engineering philosophy revolves around three principles:
