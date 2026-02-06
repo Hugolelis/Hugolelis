@@ -14,6 +14,8 @@ Functionality · Performance · Security
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&"  />
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) 
+
 ---
 
 ## Tech Stack
@@ -31,11 +33,6 @@ Functionality · Performance · Security
 #### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com) 
 
 
 
