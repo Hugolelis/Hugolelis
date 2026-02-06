@@ -1,3 +1,11 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&"  />
+</div>
+
 ## Hi there!
 
 I'm a Software Developer passionate about crafting robust, scalable, and secure systems that power high-impact applications.
@@ -5,12 +13,6 @@ I take pride in designing clean architectures, optimizing performance, and ensur
 
 #### My engineering philosophy revolves around three principles:
 Functionality · Performance · Security
-
-
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ---
 
