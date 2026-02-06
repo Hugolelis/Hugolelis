@@ -6,6 +6,12 @@ I take pride in designing clean architectures, optimizing performance, and ensur
 #### My engineering philosophy revolves around three principles:
 Functionality · Performance · Security
 
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ---
 
 ## Tech Stack
