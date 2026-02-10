@@ -1,6 +1,6 @@
 <div align="center">
 
-## print("Hello, World!")
+## Hello, World!
 
 **Information Systems @ UniFOA**
 
