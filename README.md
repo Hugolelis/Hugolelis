@@ -18,7 +18,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=cv&logoColor=white)](./Hugolelis_cv.pdf?download=)
+[![Download CV](https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=cv&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
 <br />
 
