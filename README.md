@@ -2,6 +2,8 @@
 
 ## Hello, World!
 
+<div align="center">
+
 **Information Systems @ UniFOA**
 
 Software Developer dedicated to engineering high-performance architectures and robust, scalable systems.
@@ -11,7 +13,6 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 <br />
 
-<div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <br />
