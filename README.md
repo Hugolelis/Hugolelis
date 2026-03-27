@@ -10,6 +10,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 **Functionality** · **Performance** · **Security**
 
 <br />
+
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
@@ -21,6 +22,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 [![Download CV](https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=cv&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
 </div>
+
 <br />
 
 ---
@@ -46,6 +48,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 ---
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugolelis/Hugolelis/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugolelis/Hugolelis/output/pacman-contribution-graph.svg">
@@ -53,6 +56,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 </picture>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&" />
+</div>
 
 
 
