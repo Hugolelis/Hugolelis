@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## Hello, World!
 
@@ -10,7 +10,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 **Functionality** · **Performance** · **Security**
 
 <br />
-
+<div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <br />
@@ -20,6 +20,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-Black?style=for-the-badge&logo=cv&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
+</div>
 <br />
 
 ---
@@ -54,7 +55,6 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&" />
 
-</div>
 
 
 
