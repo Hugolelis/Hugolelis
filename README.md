@@ -9,7 +9,7 @@
 Software Developer dedicated to engineering high-performance architectures and robust, scalable systems.
 
 #### Engineering Philosophy:
-**Functionality** · **Performance** · **Security**
+**Maintainability** · **Readability** · **Testability** · **Security**
 
 <br />
 
