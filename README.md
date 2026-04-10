@@ -50,13 +50,12 @@ Software Developer dedicated to engineering high-performance architectures and r
 ---
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugolelis/Hugolelis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugolelis/Hugolelis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugolelis/Hugolelis/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  
+  <br />
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hugolelis.Hugolelis&" />
 </div>
 
 
