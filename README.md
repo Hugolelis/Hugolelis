@@ -45,10 +45,17 @@ Software Developer dedicated to engineering high-performance architectures and r
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
