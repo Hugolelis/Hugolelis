@@ -37,8 +37,6 @@ Software Developer dedicated to engineering high-performance architectures and r
 ![Linux](https://img.shields.io/badge/Linux-e8ff47?style=for-the-badge&logo=linux&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-e8ff47?style=for-the-badge&logo=git&logoColor=000000)
 
-<br />
-
 ---
 
 <div align="center">
