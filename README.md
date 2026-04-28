@@ -3,6 +3,7 @@
 <div align="center">
 
 **Information Systems @ UniFOA**
+
 Software Developer dedicated to engineering high-performance architectures and robust, scalable systems.
 
 #### Engineering Philosophy:
