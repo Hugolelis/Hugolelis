@@ -22,20 +22,22 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 ## Tech Stack
 
-#### Languages
-![Node.js](https://img.shields.io/badge/Node-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
+#### 🟢 Backend
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-
-#### Databases
 ![Postgres](https://img.shields.io/badge/postgres-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Tools & OS
+#### 🔵 Infra
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white)
+
+#### ⚪ Methodologies
+![REST](https://img.shields.io/badge/REST-1a1a2e?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-1a1a2e?style=for-the-badge&logoColor=white)
 
 ---
 
