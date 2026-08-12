@@ -22,7 +22,7 @@ Software Developer dedicated to engineering high-performance architectures and r
 
 ## Tech Stack
 
-#### 🟢 Backend
+#### 🟢 Technologies
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=c%2b%2b&logoColor=white)
