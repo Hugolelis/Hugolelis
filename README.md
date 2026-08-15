@@ -1,55 +1,127 @@
-## print("Hello, world!")
+# Hello, I'm Hugo 
+
 <div align="center">
+
+### Software Developer | Backend
 
 **Information Systems @ UniFOA**
 
-Software Developer dedicated to engineering high-performance architectures and robust, scalable systems.
-
-#### Engineering Philosophy:
-**Maintainability** · **Readability** · **Testability** · **Security**
+Building reliable, maintainable and well-structured software.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugodelelis05@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-1a1a2e?style=for-the-badge&logo=cv&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://hugolelis-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hugodelelis05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hugolelis-dev.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
 </div>
-<br />
+
+---
+
+## About Me
+
+* 🎓 Information Systems student at **UniFOA**
+* 💻 Software Developer focused on **backend development and software engineering**
+* ⚙️ Working with **Python, C++ and TypeScript/Node.js**
+* 🗄️ Experience with **PostgreSQL, MySQL and MongoDB**
+* 🐳 Using **Docker, Git and Linux** in development environments
+* 🧪 Interested in **testing, maintainability and software quality**
+* 🧠 Exploring **Artificial Intelligence and Computer Vision**
+* 📚 Always improving my knowledge in **algorithms, data structures and software architecture**
 
 ---
 
 ## Tech Stack
 
-#### 🟢 Technologies
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages
 
-#### 🔵 Infra
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge\&logo=javascript\&logoColor=white)
 
-#### ⚪ Methodologies
-![REST](https://img.shields.io/badge/REST-1a1a2e?style=for-the-badge&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-1a1a2e?style=for-the-badge&logoColor=white)
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-1a1a2e?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a2e?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-1a1a2e?style=for-the-badge\&logo=swagger\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge\&logo=linux\&logoColor=white)
+
+### Development Practices
+
+![Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge\&logo=pytest\&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge\&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-1a1a2e?style=for-the-badge\&logoColor=white)
+
+---
+
+## Engineering Principles
+
+<div align="center">
+
+**Maintainability** · **Readability** · **Testability** · **Security** · **Performance**
+
+</div>
+
+I believe good software should be more than functional.
+
+It should be easy to understand, safe to change, simple to maintain and reliable over time.
+
+---
+
+## Currently Learning
+
+* Software Architecture
+* Design Patterns
+* Advanced Backend Development
+* Data Structures & Algorithms
+* Artificial Intelligence
+* Computer Vision
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark"
+alt="Hugo's GitHub activity"
+/>
+
+<br /><br />
+
+<img
+src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+alt="Hugo's GitHub streak"
+/>
+
+</div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-      </td>
-    </tr>
-  </table>
+
+### Let's Connect
+
+Interested in software development, backend engineering and challenging technical problems.
+
+[LinkedIn](https://www.linkedin.com/in/hugo-de-lelis-120922356/) ·
+[Portfolio](https://hugolelis-dev.vercel.app/) ·
+[Email](mailto:hugodelelis05@gmail.com)
+
 </div>
