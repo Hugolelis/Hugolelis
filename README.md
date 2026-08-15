@@ -26,7 +26,7 @@ Building reliable, maintainable and well-structured software.
 * ⚙️ Working with **Python, C++ and TypeScript/Node.js**
 * 🗄️ Experience with **PostgreSQL, MySQL and MongoDB**
 * 🐳 Using **Docker, Git and Linux** in development environments
-* 🧪 Interested in **testing, maintainability and software quality**
+* 🧪 Interested in **testing, maintainability, software quality and software development**
 * 🧠 Exploring **Artificial Intelligence and Computer Vision**
 * 📚 Always improving my knowledge in **algorithms, data structures and software architecture**
 
