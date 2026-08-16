@@ -111,17 +111,3 @@ alt="Hugo's GitHub streak"
 />
 
 </div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-Interested in software development, backend engineering and challenging technical problems.
-
-[LinkedIn](https://www.linkedin.com/in/hugo-de-lelis-120922356/) ·
-[Portfolio](https://hugolelis-dev.vercel.app/) ·
-[Email](mailto:hugodelelis05@gmail.com)
-
-</div>
