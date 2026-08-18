@@ -52,7 +52,6 @@ Building reliable, maintainable and well-structured software.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools & Infrastructure
 
