@@ -24,7 +24,7 @@ Building reliable, maintainable and well-structured software.
 * 🎓 Information Systems student at **UniFOA**
 * 💻 Software Developer focused on **backend development and software engineering**
 * ⚙️ Working with **Python, C++ and TypeScript/Node.js**
-* 🗄️ Experience with **PostgreSQL, MySQL and MongoDB**
+* 🗄️ Experience with **PostgreSQL and MySQL*
 * 🐳 Using **Docker, Git and Linux** in development environments
 * 🧪 Interested in **testing, maintainability, software quality and software development**
 * 🧠 Exploring **Artificial Intelligence and Computer Vision**
