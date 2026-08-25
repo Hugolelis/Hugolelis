@@ -96,17 +96,8 @@ It should be easy to understand, safe to change, simple to maintain and reliable
 ## GitHub Activity
 
 <div align="center">
-
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugolelis&theme=github_dark"
 alt="Hugo's GitHub activity"
 />
-
-<br /><br />
-
-<img
-src="https://streak-stats.demolab.com?user=Hugolelis&theme=dark&hide_border=true&background=1a1a2e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
-alt="Hugo's GitHub streak"
-/>
-
 </div>
