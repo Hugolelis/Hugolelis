@@ -59,6 +59,7 @@ Building reliable, maintainable and well-structured software.
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge\&logo=linux\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-1a1a2e?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Development Practices
 
