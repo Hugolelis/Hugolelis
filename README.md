@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Developer | Backend
+### Software Developer
 
 **Information Systems @ UniFOA**
 
