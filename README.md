@@ -39,19 +39,6 @@ Building reliable, maintainable and well-structured software.
 
 ---
 
-## Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [generator-api](https://github.com/Hugolelis/generator-api) | REST API that generates CPFs, UUIDs, passwords, dates and short URLs, with generation logic kept independent from HTTP and validation | TypeScript, Fastify, Prisma, PostgreSQL |
-| [person_detector-ai](https://github.com/Hugolelis/person_detector-ai) | Counts people inside a user-defined zone, turns noisy per-frame detections into stable violation events and saves each one as a clip | Python, YOLO, OpenCV, PyTorch, pytest |
-| [qrcode-lib](https://github.com/Hugolelis/qrcode-lib) | QR Code generator written from scratch following ISO/IEC 18004, with no external QR or image libraries | C++17, Make |
-| [feito-product](https://github.com/Hugolelis/feito-product) | Full-stack to-do app with email-confirmed accounts, Google sign-in and a monthly calendar (in development) | Python, FastAPI, PostgreSQL, React |
-| [lexio-cli](https://github.com/Hugolelis/lexio-cli) | Command-line tool for lexicometric analysis of `.txt`, `.pdf` and `.docx` files: word frequency, vocabulary richness and readability | Python |
-| [yt_downloader-cli](https://github.com/Hugolelis/yt_downloader-cli) | Command-line tool to download YouTube videos and audio, built on `yt-dlp` | Python, Typer |
-
----
-
 ## Tech Stack
 
 | | |
@@ -62,4 +49,4 @@ Building reliable, maintainable and well-structured software.
 | **Computer Vision** | OpenCV, Ultralytics YOLO, PyTorch |
 | **Frontend** | React, Vite |
 | **Tools & Infrastructure** | Docker, Git, GitHub, Linux, NGINX |
-| **Practices** | Unit testing (pytest), Scrum, Kanban |
+| **Practices** | Unit testing, Scrum, Kanban |
