@@ -41,12 +41,49 @@ Building reliable, maintainable and well-structured software.
 
 ## Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python, C++, TypeScript, JavaScript |
-| **Backend** | Node.js, Fastify, FastAPI, REST APIs, Prisma, SQLAlchemy, Swagger |
-| **Databases** | PostgreSQL, MySQL |
-| **Computer Vision** | OpenCV, Ultralytics YOLO, PyTorch |
-| **Frontend** | React, Vite |
-| **Tools & Infrastructure** | Docker, Git, GitHub, Linux, NGINX |
-| **Practices** | Unit testing, Scrum, Kanban |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-1a1a2e?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-1a1a2e?style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a2e?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1a2e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-1a1a2e?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-1a1a2e?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=white)
+
+### Tools & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-1a1a2e?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Development Practices
+
+![Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-1a1a2e?style=for-the-badge&logoColor=white)
