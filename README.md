@@ -48,16 +48,6 @@ Building reliable, maintainable and well-structured software.
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=white)
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-1a1a2e?style=for-the-badge&logo=fastify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-1a1a2e?style=for-the-badge&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1a1a2e?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1a1a2e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-1a1a2e?style=for-the-badge&logo=swagger&logoColor=white)
-
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,11 +58,6 @@ Building reliable, maintainable and well-structured software.
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-1a1a2e?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Tools & Infrastructure
 
