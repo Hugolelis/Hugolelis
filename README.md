@@ -10,10 +10,10 @@ Building reliable, maintainable and well-structured software.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hugodelelis05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hugolelis-dev.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hugodelelis05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2a2a2a?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hugolelis-dev.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-2a2a2a?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
 </div>
 
@@ -43,32 +43,32 @@ Building reliable, maintainable and well-structured software.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-52719d?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-52719d?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-52719d?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-52719d?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a16207?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-a16207?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-1a1a2e?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-be3c7a?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-be3c7a?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-be3c7a?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Tools & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-1a1a2e?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-407a50?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-407a50?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-407a50?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-407a50?style=for-the-badge&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-407a50?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Development Practices
 
-![Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-1a1a2e?style=for-the-badge&logoColor=white)
+![Testing](https://img.shields.io/badge/Unit_Testing-806b97?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-806b97?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-806b97?style=for-the-badge&logoColor=white)
