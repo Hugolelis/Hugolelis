@@ -10,10 +10,10 @@ Building reliable, maintainable and well-structured software.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMyIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEwIDloNHYxLjhjLjctMS4yIDItMiAzLjctMiAzLjIgMCA0LjMgMi4xIDQuMyA1LjFWMjFoLTR2LTUuNmMwLTEuNS0uNC0yLjUtMS45LTIuNXMtMi4xIDEtMi4xIDIuNVYyMWgtNHoiLz48L3N2Zz4K)](https://www.linkedin.com/in/hugo-de-lelis-120922356/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hugodelelis05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2a2a2a?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hugolelis-dev.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-2a2a2a?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2f7f79?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hugolelis-dev.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-806b97?style=for-the-badge\&logo=readthedocs\&logoColor=white)](https://raw.githubusercontent.com/Hugolelis/Hugolelis/main/Hugolelis_cv.pdf)
 
 </div>
 
